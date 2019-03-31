@@ -1,1 +1,3 @@
-# dentahl4j-domain
+# Dentahl4j-Domain
+
+[![Build Status](https://travis-ci.org/Clayn/dentahl.svg?branch=master)](https://travis-ci.org/Clayn/dentahl4j-domain)
