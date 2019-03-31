@@ -1,0 +1,3 @@
+before_install: cd Domain
+
+language: java
