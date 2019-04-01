@@ -26,6 +26,7 @@ package net.bplaced.clayn.d4j.domain;
 import java.io.Serializable;
 import java.net.URL;
 import java.util.Objects;
+import net.bplaced.clayn.d4j.domain.combo.Hit;
 
 /**
  *
@@ -43,6 +44,16 @@ public class Ninja implements Serializable
 
     public Ninja()
     {
+    }
+
+    public Hit getOpak()
+    {
+        return null;
+    }
+
+    public Hit getAttack()
+    {
+        return null;
     }
 
     public void setMain(int main)
